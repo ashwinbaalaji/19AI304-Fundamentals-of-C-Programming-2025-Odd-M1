@@ -1,10 +1,10 @@
-# 19AI304-Fundamentals-of-C-Programming-2025-Odd-M1
+ # 19AI304-Fundamentals-of-C-Programming-2025-Odd-M1
 # IAPR-1- Module 1 - FoC
 ## 1. Implementation of basic C programs using Literals,Consonants, Variables, Data types.
 ## 2. Implementation of different categories of operators.
 # Ex.No:1
   Build a C program to demonstrate the usage of different types of literals: integer, float, character, and string.  
-# Date : 22.4.26
+# Date :22.4.26 
 # Aim:
 To build a C program that prints integer, float,character, and string literals on the console using the printf() function.
 # Algorithm:
@@ -26,6 +26,7 @@ To build a C program that prints integer, float,character, and string literals o
 ### Step 4: 
    Stop
 # Program:
+~~~
 #include <stdio.h>
 
 int main() {
@@ -40,8 +41,9 @@ int main() {
 
     return 0;
 }
+~~~
 # Output:
-<img width="616" height="509" alt="image" src="https://github.com/user-attachments/assets/5e570e0c-e3b8-4d58-ad1e-8e5933d61a2b" />
+<img width="501" height="417" alt="530557077-6fc9ab3a-b8a0-434b-b452-711e74f7328e" src="https://github.com/user-attachments/assets/e4687b4d-40a1-4a70-a65d-b26c1bea1c63" />
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
@@ -73,6 +75,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 6:  
   Stop
 # Program:
+~~~
 #include <stdio.h>
 #define MAX 100
 int main() {
@@ -81,8 +84,9 @@ int main() {
     printf("Constant variable MIN = %d\n", MIN);
     return 0;
 }
+~~~
 # Output:
-<img width="660" height="383" alt="image" src="https://github.com/user-attachments/assets/067bc18f-0ac1-4255-8b69-acbc5547889c" />
+<img width="535" height="324" alt="530557352-570a3d77-e98a-4efd-bb55-d5d8b8e1883b" src="https://github.com/user-attachments/assets/a2d1c182-7905-4729-af46-f979957a7a49" />
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
@@ -107,6 +111,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 5:    
    Stop
 # Program:
+~~~
 #include <stdio.h>
 int main() {
     int count = 10;           
@@ -119,11 +124,12 @@ int main() {
     printf("Character value: %c\n", grade);
     return 0;
 }
+~~~
 # Output:
-<img width="576" height="445" alt="image" src="https://github.com/user-attachments/assets/18f360b1-90db-475c-9a95-b19c5aa0bd5c" />
+<img width="466" height="365" alt="530557433-b4bbfca5-5041-4a08-9b78-05b4c7901d05" src="https://github.com/user-attachments/assets/8233ddc7-c8cd-44e0-8930-35106ceb7760" />
 
 # Result: 
-
+Thus, the program was implemented and executed successfully, and the required output was obtained.
 # 19AI304-Fundamentals-of-C-Programming-2025-Odd
 # IAPR-1- Module 1 - FoC
 # Ex.No:4
@@ -160,6 +166,7 @@ int main() {
 ### Step 8:   
   Stop
 # Program:
+~~~
 #include <stdio.h>
 
 int main() {
@@ -187,8 +194,9 @@ int main() {
 
     return 0;
 }
+~~~
 # Output:
-<img width="428" height="595" alt="image" src="https://github.com/user-attachments/assets/61090da5-7d7d-4337-8f3b-6fc9d84d9d7a" />
+<img width="348" height="488" alt="530557577-eba8edd5-5392-459e-9512-2e2e2a8dd72a" src="https://github.com/user-attachments/assets/d8d580cf-f7ee-4240-a333-de5efe0426a6" />
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
@@ -234,6 +242,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8:   
   Stop
 # Program:
+~~~
 #include <stdio.h>
 int main() {
     char ch;
@@ -249,10 +258,9 @@ int main() {
         printf("The character is a Special Symbol.\n");
     return 0;
 }
+~~~
 # Output:
-<img width="671" height="432" alt="image" src="https://github.com/user-attachments/assets/7ef53fef-b562-466a-b790-eb4d551c5f27" />
+<img width="544" height="365" alt="530557688-07599991-163c-4924-afe2-a50761e30f68" src="https://github.com/user-attachments/assets/8372ab75-77d3-474e-9758-e959e8f91aab" />
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
-
-
